@@ -1,4 +1,4 @@
-![Image](Screenshot 2022-04-10 162419.png)
+![Image](https://github.com/Carly-Freedman/CSE15L-Lab-Reports/blob/main/Screenshot%202022-04-10%20162419.png)
 
 
 

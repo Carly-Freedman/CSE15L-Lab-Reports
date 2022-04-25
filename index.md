@@ -1,27 +1,8 @@
-# Hello from VSCode!!
-# Heading 1 
-## Heading 2
-*Italics*
-**Bold**
-[Link](https://www.youtube.com/watch?v=34Ig3X59_qA)
-![Image](https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(character)#/media/File:SpongeBob_SquarePants_character.svg)
-> Blockquote
-- List
-- List
-- List
-1. One
-2. Two
-3. Three
-Horizontal Rule:
----
-`Inline code` with backticks
-```
-# code block
-print `3 backticks or`
-print `indent 4 spaces`
-```
+# Welcome to Carly Freedman's CSE 15L Lab Reports
 
+[Lab Report 1](https://github.com/Carly-Freedman/CSE15L-Lab-Reports/blob/main/lab-report-1-week-2.md)
 
+[Lab Report 2](https://github.com/Carly-Freedman/CSE15L-Lab-Reports/blob/main/lab-report-2-week-4.md)
 
 
 

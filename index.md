@@ -4,6 +4,6 @@
 
 [Lab Report 2](https://carly-freedman.github.io/CSE15L-Lab-Reports/lab-report-2-week-4)
 
-
+[Lab Report 3](https://carly-freedman.github.io/CSE15L-Lab-Reports/lab-report-3-week-6)
 
 

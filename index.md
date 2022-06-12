@@ -7,3 +7,5 @@
 [Lab Report 3](https://carly-freedman.github.io/CSE15L-Lab-Reports/lab-report-3-week-6)
 
 [Lab Report 4](https://carly-freedman.github.io/CSE15L-Lab-Reports/lab-report-4-week-8)
+
+[Lab Report 5](https://carly-freedman.github.io/CSE15L-Lab-Reports/lab-report-4-week-8)
